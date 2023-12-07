@@ -1,1 +1,2 @@
 # IntercambiosApp
+This is an application designed to streamline and organize gift exchanges among groups of friends, families, or colleagues. This tool allows you to input the list of participants, and it randomly generates the order in which each person will give their gifts.
